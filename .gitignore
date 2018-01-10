@@ -1,0 +1,4 @@
+Data/*.sqlite
+Old/
+*.pyc
+model/glove.*

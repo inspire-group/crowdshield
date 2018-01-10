@@ -1,0 +1,9 @@
+[submodule "pytrends"]
+	path = lib/pytrends
+	url = https://github.com/GeneralMills/pytrends
+[submodule "squish"]
+	path = lib/squish
+	url = https://github.com/aido179/squish
+[submodule "twitter-hatespeech"]
+	path = lib/twitter-hatespeech
+	url = https://github.com/pinkeshbadjatiya/twitter-hatespeech
